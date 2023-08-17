@@ -19,7 +19,7 @@ function take_snapshot() {
 }
 
 function preload() {
-
+    load = image('https://i.postimg.cc/3x3QzSGq/m.png');
 }
 
 function setup() {
